@@ -1,0 +1,24 @@
+{
+  "name": "github-actions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forrealdeveloper/github-actions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forrealdeveloper/github-actions/issues"
+  },
+  "homepage": "https://github.com/forrealdeveloper/github-actions#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
